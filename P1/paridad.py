@@ -1,4 +1,4 @@
-#Programa desarrollado en clases práctica de la sección 06 de programación UCV
+#Programa desarrollado en la clase práctica de la sección 06 de programación UCV
 #Este programa determina si un número introducido por el usuario es par o no
 num = int(input("Introduzca el Número: "))
 
