@@ -1,4 +1,4 @@
-#Programa desarrollado en clases práctica de la sección 07 de programación UCV
+#Programa desarrollado en la clase práctica de la sección 07 de programación UCV
 #Este programa determina cual de dos números introducidos por el usuario
 #es mayor
 num1 = int(input("Introduzca el primer Número: "))
