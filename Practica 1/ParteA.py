@@ -1,3 +1,6 @@
+#Programa desarrollado por Ruben Hernandez.
+#Este programa determina dadas unas coordenadas (x,y) de un punto en el plano, su equivalencia en coordenadas polares (R,θ).
+
 valor_1=float(input("Ingrese la coordenada X: "))
 valor_2=float(input("Ingrese la coordenada Y: "))
 import math
