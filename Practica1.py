@@ -1,3 +1,4 @@
+#El estudiante podrá obtener la distancia entre dos puntos en el plano XY asi mismo el punto medio entre ambos.
 valor_1=float(input("Ingrese la coordenada X1: "))
 valor_2=float(input("Ingrese la coordenada X2: "))
 valor_3=float(input("Ingrese la coordenada Y1: "))
