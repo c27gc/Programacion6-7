@@ -9,5 +9,5 @@ if num1 > num2:
 else:
     if num1 == num2:
         print("Los número son iguales")
-    else:
-        print("El número {} es mayor que {}".format(num2,num1))
+    else: # num1 < num2
+        print("El número {} es menor que {}".format(num2,num1))
