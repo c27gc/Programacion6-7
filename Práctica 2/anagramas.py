@@ -3,7 +3,7 @@
 #Departamento de Investigación de Operaciones y Computación
 #Programación, Python
 #Programa realizado por:
-#Carlos E. González C.
+#Prof. Carlos E. González C.
 #Práctica de laboratorio Num 2
 
 str_1 = input("Escriba la primera palabra: ")
