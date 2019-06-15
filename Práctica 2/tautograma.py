@@ -16,13 +16,13 @@ while(count != 0):
         print("Debe ingresar una oración (al menos dos palabras), le restan {} intentos".format(count-1))
         count -= 1
 
-#Rutina para eliminar espacios en blanco entre las palabras
+#Rutina para eliminar multiples espacios en blanco entre las palabras
 for i in reversed(range(2,len(str_1))):
     if i*" " in str_1:
         while(i*" " in str_1):
             ind = str_1.index(i*" ")
             str_1 = str_1[0:ind] + " " + str_1[ind+i:]
-            
+
 lista_str_1 = list(str_1.lower())
 tauto = True
 #Rutina para borrar caracteres en blanco al principio de la cadena
